@@ -14,4 +14,4 @@ Bağlantılar;
 ![visits](https://komarev.com/ghpvc/?username=xsoulfire)
 
 # ⚽ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/385427979066540035)](https://discord.com/users/385427979066540035)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1030495490963411045)](https://discord.com/users/1030495490963411045)
